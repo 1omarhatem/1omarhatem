@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="animated" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Omar Hatem</h1>
 <h3 align="center">A founder of Planit Software Academy | Founder at F12 | Junior Back-end Developer | Freelancer</h3>
 
