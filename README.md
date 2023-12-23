@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="animated" />
+  <img src="https://64.media.tumblr.com/536650246a97a0af6ddbe330b4833a97/tumblr_mggbr4OgmR1r4mh0bo1_500.gifv" alt="animated" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Omar Hatem</h1>
