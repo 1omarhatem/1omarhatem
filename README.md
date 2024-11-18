@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarhateem&label=Profile%20views&color=0e75b6&style=flat" alt="omarhateem" /> </p>
 
-- 🔭 I’m currently work at **Arab 4 IT**
+- 🔭 I’m currently work at **MCP LAP**
 
 - 🌱 I’m currently learning **DevOps and advanced laravel**
 
-- 🤝 Founder at **F12(SC) and Planit(SW).**
+- 🤝 Founder at **F12(SC) and Planit(SS).**
 
 - 💬 Ask me about **PHP , C++ ,Database and softskills**
 
