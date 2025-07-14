@@ -3,7 +3,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Omar Hatem</h1>
-<h3 align="center">A founder of Planit Software Academy | Founder at F12 | Junior Back-end Developer | Freelancer</h3>
+<h3 align="center">Junior Software Engineer | Backend Developer (Node.js, PHP) | Software Instructor with 1K+ Hours of Training
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarhateem&label=Profile%20views&color=0e75b6&style=flat" alt="omarhateem" /> </p>
 
