@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarhateem&label=Profile%20views&color=0e75b6&style=flat" alt="omarhateem" /> </p>
 
-- 🔭 I’m currently work at **MVP LAP**
+- 🔭 I’m currently work at **BTop SH**
 
 - 🌱 I’m currently learning **DevOps and advanced laravel**
 
 - 🤝 Founder at **F12(SC) and Planit(SS).**
 
-- 💬 Ask me about **PHP , C++ ,Database and softskills**
+- 💬 Ask me about **JS , SWE  , C++ ,Database , Marketing , Business and softskills**
 
 - 📫 How to reach me **omarhatemf12@gmail.com**
 
